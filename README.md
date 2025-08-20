@@ -1,10 +1,7 @@
 # 🌤️ Aether Weather App
 
-<<<<<<< HEAD
 
-## 📸 Screenshot
-
-![App Screenshot](/public/screenshot.png)
+<img width="1919" height="1079" alt="screenshot" src="https://github.com/user-attachments/assets/48f0453c-5b4a-4777-bc6c-692609b49ba4" />
 
 
 A beautifully designed weather application that provides accurate forecasts with an elegant, atmospheric interface. Built with **React** and modern web technologies.
