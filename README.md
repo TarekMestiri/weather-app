@@ -43,7 +43,3 @@ This app uses the **OpenWeatherMap API** to fetch weather data. You'll need to:
 
    ```bash
    VITE_APP_ID=your_api_key_here
-   ```bash
-   VITE_APP_ID=your_api_key_here
-
->>>>>>> 98fdaf0ae983914012d6c7ef72010975a0bd152a
